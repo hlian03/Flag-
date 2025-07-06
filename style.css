@@ -1,0 +1,27 @@
+
+body {
+    background-color: #f0f0f0;
+    padding: 20px;
+ }
+
+.flag-image{
+    width: 349px;
+    height: 294px;
+    position: absolute;
+}
+
+.flag-table {
+    border-collapse: collapse;
+}
+
+td { 
+    width: 900px;
+    height: 40px;
+}
+
+.red {
+    background-color: red;
+}
+.white {
+    background-color: white;  
+}
